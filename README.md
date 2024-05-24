@@ -3,5 +3,6 @@ Calculadora de botões que permite a execução de de cálculos básicos como su
 
 https://nathan-caetano.github.io/Calculadora/
 
-#ToDo
+## ToDo
+
 Corrigir o Bug de 2 operadores
